@@ -1,4 +1,4 @@
-# Hackwise
+# Hackwize
 The Best Linewize Hacks/Mods to Date
 
 
