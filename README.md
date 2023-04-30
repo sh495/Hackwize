@@ -10,4 +10,4 @@ For chatting with devs and sending code, go to
 
 https://clipmath.wixsite.com/website/groups
 
-It's Disguised As A Math Website
+It's Disguised As A Math Website.
