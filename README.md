@@ -8,6 +8,6 @@ HackWize is a mod on GitHub that removes the stress and spying caused by the pro
 
 For chatting with devs and sending code, go to
 
-https://clipmath.wixsite.com/website/groups
+https://discord.gg/PDRTFTHQnA or https://clipmath.wixsite.com/website/groups
 
-It's Disguised As A Math Website.
+My Discord Has unreleased and experimental code.
