@@ -10,4 +10,4 @@ For chatting with devs and sending code, go to
 
 https://discord.gg/PDRTFTHQnA or https://clipmath.wixsite.com/website/groups
 
-My Discord Has unreleased and experimental code.
+My Discord has unreleased and experimental code.
